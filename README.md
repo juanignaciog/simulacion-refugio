@@ -1,5 +1,5 @@
 Para correr ejecutar en cmd:
-node app.js
+`node app.js`
 
 Si se ejecuta sin parametros, los valores default son 10 cuchas de cada tipo y fdp de intervalo en "comun".
 Con parametros:
